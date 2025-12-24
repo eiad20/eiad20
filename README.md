@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🧑‍🎓 About Me:
 <br>👋 Sophomore Computer Engineering student.<br><br>🛠️ Skills<br> 💻 Embedded C/C++: Hands-on with ATmega32 & STM32 microcontrollers.<br> 🔗 Protocols: Experience with low-level communication (UART, SPI).<br> ⚙️ Design/Simulation: Proficient in circuit design using Proteus.<br> 🐍 Languages Known: Knowledge of Python fundamentals.<br> 🌐 Web Basics: Foundational knowledge in Front-End (HTML, CSS).
 
 
