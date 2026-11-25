@@ -1,28 +1,35 @@
-### 💻 About Me:
+### 💻 About Me
 
-👋 Junior Computer Engineering student.
+👋 Computer Engineering student at Ain Shams University (3rd year). I work close to the hardware with embedded systems, and I also write software in C# and .NET.
 
-### 🛠️ Skills
+### 🛠️ What I Work With
 
 <p>
-  <span style="font-size: 1.5em;">🔌</span> <strong>Embedded Systems:</strong> Hands-on experience with ATmega32, STM32, and ARM architectures using Embedded C.<br>
-  <span style="font-size: 1.5em;">📡</span> <strong>Protocols:</strong> Solid understanding of low-level communication protocols (UART, USART, SPI).<br>
-  <span style="font-size: 1.5em;">⚙️</span> <strong>Design & Hardware:</strong> Proficient in custom physical PCB design and circuit simulation using Proteus and Digital.<br>
-  <span style="font-size: 1.5em;">⚡</span> <strong>Backend & Frameworks:</strong> Building robust applications and system environments using C# and .NET.<br>
-  <span style="font-size: 1.5em;">💻</span> <strong>Programming Languages:</strong> C/C++, C#, Java, Python (fundamentals), and Embedded C.<br>
-  <span style="font-size: 1.5em;">🧠</span> <strong>Data Structures & Algorithms:</strong> Solid foundation in core DSA concepts and problem solving.
+  🔌 <strong>Embedded Systems:</strong> ATmega32, STM32 and ARM, written in Embedded C.<br>
+  📡 <strong>Protocols:</strong> UART, USART and SPI.<br>
+  ⚙️ <strong>Hardware Design:</strong> Custom PCB design, and circuit simulation in Proteus and Digital.<br>
+ ⚡ <strong>Software:</strong> C# and .NET for applications, C/C++ and Java, with JUnit for unit testing.<br>
+  🌐 <strong>Web:</strong> React and CSS.<br>
+  🧠 <strong>Data Structures & Algorithms:</strong> Core concepts and problem solving.<br>
+  🐍 <strong>Other:</strong> Python (basics).
 </p>
 
-### 💻 Tech Stack:
+### 🧰 Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MS SQL Server" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://shieldcn.dev/badge/C.svg?variant=branded&size=md&logo=c" alt="C" />
+  <img src="https://shieldcn.dev/badge/C%2B%2B.svg?variant=branded&size=md&logo=cplusplus" alt="C++" />
+  <img src="https://shieldcn.dev/badge/C%23.svg?variant=branded&size=md" alt="C#" />
+  <img src="https://shieldcn.dev/badge/.NET.svg?variant=branded&size=md&logo=dotnet" alt=".NET" />
+  <img src="https://shieldcn.dev/badge/Entity%20Framework.svg?variant=branded&size=md&logo=dotnet" alt="Entity Framework" />
+  <img src="https://shieldcn.dev/badge/Java.svg?variant=branded&size=md&logo=openjdk" alt="Java" />
+  <img src="https://shieldcn.dev/badge/Python.svg?variant=branded&size=md&logo=python" alt="Python" />
+  <img src="https://shieldcn.dev/badge/React.svg?variant=branded&size=md&logo=react" alt="React" />
+  <img src="https://shieldcn.dev/badge/CSS.svg?variant=branded&size=md&logo=css" alt="CSS" />
+  <img src="https://shieldcn.dev/badge/MS%20SQL%20Server.svg?variant=branded&size=md&logo=microsoftsqlserver" alt="MS SQL Server" />
+  <img src="https://shieldcn.dev/badge/Git.svg?variant=branded&size=md&logo=git" alt="Git" />
+  <img src="https://shieldcn.dev/badge/Vercel.svg?variant=branded&size=md&logo=vercel" alt="Vercel" />
+  <img src="https://shieldcn.dev/badge/AWS%20EC2.svg?variant=branded&size=md" alt="AWS EC2" />
+  <img src="https://shieldcn.dev/badge/JUnit5.svg?variant=branded&size=md&logo=junit5" alt="JUnit5" />
+  <img src="https://shieldcn.dev/badge/Proteus.svg?variant=branded&size=md" alt="Proteus" />
 </p>
